@@ -1,0 +1,23 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Data (don't upload large datasets)
+credit_risk_dataset.csv
+
+# Environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model (optional: don't upload large models if sensitive)
+model/*.pkl
+
+# IDE
+.vscode/
+.idea/
